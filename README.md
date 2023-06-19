@@ -4,16 +4,17 @@
 
   ## Description
   The PWA Text Editor is a versatile and intuitive Progressive Web Application (PWA) designed to provide users with a seamless and feature-rich text editing experience.
+<img width="737" alt="Screenshot 2023-06-19 at 21 28 17" src="https://github.com/Abstynent/PWA-text-editor/assets/87772337/80ea1dc6-f305-4a80-8596-c2b9252461a0">
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contribiuting](#contributing)
-  * [Tests](#tests)
+  * [Start](#build-and-start-developer-server)
   * [Questions](#questions)
 
-  ## Instalation
+  ## Installation
   To install necessary dependencies, run the following command:
   ```
   npm run install
